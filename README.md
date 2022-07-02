@@ -15,12 +15,29 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 You can exit Always PTT and set the assigned push-to-talk key back to its original functionality by right clicking on the Always PTT icon in the task tray and selecting the "Exit and Unmute Mic" option.
 
 
+## FEATURE HIGHLIGHTS:
+
+* Assign a push-to-talk key that works universally across all programs and games in Windows.
+
+* Keeps microphone properly muted which is great for privacy when not using the mic.
+
+* An On-Screen-Display (OSD) to show when the mic is active (can be enabled from the settings).
+
+* Beep when mic is activated and deactivated (can be enabled in settings).
+
+* Less than 1MB in size and uses only a small amount of memory to operate.
+
+* Option to run at Windows startup (can be enabled in settings).
+
+
 ## DOWNLOAD INSTRUCTIONS:
+
 Download from releases on Github: 
 https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases
 
 
 ## USAGE INSTRUCTIONS:
+
 1. Always PTT will keep your microphone muted while it is running except for while you are holding the assigned push-to-talk key down.
 2. Always PTT will show as a white headset icon in your task tray, the icon will be green while the assigned push-to-talk key is being held down.
 3. To exit Always PTT and return the assigned push-to-talk key to its original functionality right-click the Always PTT icon in the task tray and select Exit.
@@ -28,11 +45,13 @@ This will immediately exit Always PTT and return the assigned push-to-talk key t
 
 
 ## HOW TO SET DEFAULT DEVICE:
+
 1. Left click the Always PTT headphone icon in the task tray. This will show the Windows Sound dialog with the "Recording" tab automatically selected.
 2. Find the microphone device you want to use, right click it and select "Set as Default Device". You can then close the Windows Sound dialog.
 
 
 ## TROUBLESHOOTING:
+
 If you have set a default device and Always PTT hasn't detected it even after restarting Always PTT. Restart your computer.
 
 If Always PTT doesn't work with a particular game or program (such as Discord), run Always PTT as administrator.
