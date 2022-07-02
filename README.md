@@ -122,10 +122,10 @@ Added NSIS installer to install Always PTT with ease.
 Added License Agreement which can be found on the first page of the installer and at the end of this ReadMe file.
 
 Added key icons to the following submenus within the "Assign Push-to-Talk Key" submenu:
-	Functions Keys
-	Letter Keys
-	Number Keys
-	Numpad Keys
+1. 	Functions Keys
+2. 	Letter Keys
+3. 	Number Keys
+4. 	Numpad Keys
 
 ### v3.2.2; Minor UI update
 
