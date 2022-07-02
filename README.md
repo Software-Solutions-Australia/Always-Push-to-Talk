@@ -2,17 +2,7 @@
 
 Always PTT will keep your default capture device (your mic) muted unless an assigned push-to-talk key is being pressed.
 
-It will only work with whichever recording device you have set as your default.
-
-This program by default will set the CapsLock key as a universal push-to-talk (PTT) key while Always PTT is running.
-
-It will appear as an icon in the task tray which has a menu when you right-click on the icon.
-
-You can set another key to be the push-to-talk key by right clicking the Always PTT icon in the Windows task tray (bottom right of your screen), hover your mouse over the "Assign Push-to-Talk Key" menu, from there you can select various keys to use as your push-to-talk key.
-
 Always PTT is designed for Windows 10 and has not been tested on any other versions of Windows.
-
-You can exit Always PTT and set the assigned push-to-talk key back to its original functionality by right clicking on the Always PTT icon in the task tray and selecting the "Exit and Unmute Mic" option.
 
 
 ## FEATURE HIGHLIGHTS:
