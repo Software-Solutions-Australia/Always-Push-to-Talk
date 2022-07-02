@@ -1,4 +1,4 @@
-### Always PTT v2.2.7 by Software Solutions Australia (Disguise_AU)
+### Always Push-to-Talk by Software Solutions Australia (Disguise_AU)
 
 Always PTT will keep your default capture device (your mic) muted unless an assigned push-to-talk key is being pressed.
 
@@ -15,10 +15,9 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 You can exit Always PTT and set the assigned push-to-talk key back to its original functionality by right clicking on the Always PTT icon in the task tray and selecting the "Exit and Unmute Mic" option.
 
 
-## INSTALL INSTRUCTIONS:
-1. Run AlwaysPTT_v2.2.7_install and follow the prompts to install the program, you can use the default install location or set a custom install location.
-2. Run Always PTT from the shortcut in the Start Menu, you will now see a white headset icon appear in your task tray. Right-click the Always PTT icon and go to the "Assign Push-to-Talk Key" submenu, then select your desired push-to-talk key from the various submenus. The keys are organised into categories to make it easy.
-3. Test that Always PTT is working. You can do this from the Recording tab in the Sound window or in an application that detects sound.
+## DOWNLOAD INSTRUCTIONS:
+Download from releases on Github: 
+https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases
 
 
 ## USAGE INSTRUCTIONS:
@@ -41,121 +40,6 @@ If Always PTT doesn't work with a particular game or program (such as Discord), 
 If you still have problems with this program, try reading the instructions again and follow them carefully.
 
 If you are still having problems, join my Discord server and explain your problem there: https://discord.gg/EfAu2db
-
-
-## CHANGELOG:
-
-### v2.2.7; OSD functionality & Minor UI update
-
-Added ability to show mic status as OSD. You can change the position and size of the OSD.
-
-Added "OSD Settings" in "Always PTT Settings" submenu.
-
-Added "Help" menu in the "Always PTT Settings" submenu which contains links to send an email to Software Solutions or join the GAME TIME! Discord.
-
-Added "Reset Settings to Default" option  in "Help" submenu.
-
-Added "Show Windows Settings" submenu.
-
-Moved "Show Recording Devices" and "Show Volume Mixer" to "Show Windows Settings" submenu.
-
-Fixed changing settings no longer unnecessarily reloads the Always PTT process.
-
-Fixed if config file becomes corrupted due to an external source Always PTT will now reset it's settings to default.
-
-Fixed microphone would stay muted under certain conditions after exiting Always PTT.
-
-Changed Always PTT no longer needs to be restarted after selecting a different default device. However if you encounter a problem just restart Always PTT.
-
-Changed installer now resets Always PTT settings to default when updating to a newer version.
-
-### v2.2.6; Bug fixes, Beep option & Installer improvements
-
-Fixed installer not deleting files from previous versions of Always PTT when installing a newer version.
-
-Fixed bug where on rare occasions using the "Disable push-to-Talk" menu option could freeze Always PTT. Completely new code is now used for this.
-
-Fixed bug where under certain conditions Always PTT could be prevented from saving the selected push-to-talk key to the config file (ptt.ini).
-
-Fixed bug where settings would not carry over between version updates.
-
-Added "Always PTT Settings" menu option which contains "Enable Beep", Automatically Run as Admin" and "Run on Windows Startup".
-
-Added "Enable Beep" menu option which when enabled will play a beep sound when pressing and releasing the assigned push-to-talk key. (disabled by default)
-
-Added "Automatically Run as Admin" menu option. This is only for users who require Always PTT to be running as admin.
-
-Moved "Run on Windows Startup" menu option to the "Always PTT Settings" submenu.
-
-Moved config file (ptt.ini) location from Always PTT install directory to "..\AppData\Roaming\Always PTT".
-
-Changed installer icon to the Always PTT headset icon.
-
-Changed red headset icon used when Always PTT is disabled to a grey one.
-
-Changed font for the Always PTT header at the top of the main menu to bold font.
-
-Removed bold font from "Show Recording Devices" menu text.
-
-### v2.2.5; Run on Windows Startup, Show Volume Mixer & Disable Push-to-Talk
-
-Added "Run on Windows Startup" menu option which allows you to toggle if Always PTT will run on Windows startup or not (disabled by default).
-
-Added "Show Volume Mixer" menu option which opens the Windows Volume Mixer dialog.
-
-Added "Disable Push-to-Talk" menu option which will disable Always PTT and return the assigned key to it's normal functionality.
-
-### v2.2.4; Show Recording Devices
-
-Added ability to open the Windows Sound dialog with the Recording tab already selected on single click of the Always PTT task tray icon.
-
-Added "Show Recording Devices" menu option which is another way to open the Windows Sound dialog with the Recording tab already selected.
-
-Moved "Software Solutions 2022" text to the bottom of the menu.
-
-Changed "Exit" menu text to "Exit and Unmute Mic".
-
-### v2.2.3; Installer & key icons
-
-Added NSIS installer to install Always PTT with ease.
-
-Added License Agreement which can be found on the first page of the installer and at the end of this ReadMe file.
-
-Added key icons to the following submenus within the "Assign Push-to-Talk Key" submenu:
-1. 	Functions Keys
-2. 	Letter Keys
-3. 	Number Keys
-4. 	Numpad Keys
-
-### v3.2.2; Minor UI update
-
-Changed "Assign Key" submenu text to "Assign Push-to-Talk Key".
-
-Fixed a spelling mistake.
-
-### v2.2.1; Assigned Key indicators
-
-Changed "Currently Assigned:" text to "Assigned Key:".
-
-Moved "Assigned Key:" text from the "Assign Key" submenu to the main menu.
-
-Added indicators on the menu items to show which push-to-talk key is selected.
-
-### v2.2; Mouse button compatibility
-
-Added compatibility for mouse buttons.
-
-Added "Mouse Buttons" submenu in the "Other Keys" submenu.
-
-### v2.1; Assign Key menu
-
-Added "Assign Key" submenu with various keys in various key categories to select from to select a push-to-talk key from a menu rather than changing the config file.
-
-### v2.0; Complete redesign of Always PTT from scratch
-
-Removed microphone setup process, Always PTT now uses your default microphone device.
-
-Added ability to change the assigned push-to-talk key to any key using a config file (ptt.ini).
 
 
 ## LICENSE AGREEMENT:
