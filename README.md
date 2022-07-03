@@ -25,7 +25,7 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 ## DOWNLOAD INSTRUCTIONS:
 
 Download from releases on Github: 
-https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases
+[https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases)
 
 
 ## USAGE INSTRUCTIONS:
