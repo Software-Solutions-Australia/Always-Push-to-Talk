@@ -17,7 +17,7 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 
 * Beep when mic is activated and deactivated (can be enabled in settings).
 
-* Less than 1MB in size and uses only a small amount of memory to operate.
+* Less than 3MB in size and uses only a small amount of memory to operate.
 
 * Option to run at Windows startup (can be enabled in settings).
 
