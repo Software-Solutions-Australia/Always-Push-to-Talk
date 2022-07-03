@@ -30,10 +30,15 @@ Download from releases on Github:
 
 ## USAGE INSTRUCTIONS:
 
-1. Always PTT will keep your microphone muted while it is running except for while you are holding the assigned push-to-talk key down.
+1. Always PTT will keep your microphone muted while it is running except for while you are holding the assigned push-to-talk key down (CapsLock by default, you can change the assigned key).
+
+[![](https://i.postimg.cc/sDp952FN/capslock.png)](https://postimg.cc/Ln81p28t)
+
 2. Always PTT will show as a white headset icon in your task tray, the icon will be green while the assigned push-to-talk key is being held down.
-3. To exit Always PTT and return the assigned push-to-talk key to its original functionality right-click the Always PTT icon in the task tray and select Exit.
-This will immediately exit Always PTT and return the assigned push-to-talk key to its original functionality.
+
+[![APTT-2.png](https://i.postimg.cc/prdbzSr0/APTT-2.png)](https://postimg.cc/dkgxK48d)
+
+3. To exit Always PTT and return the assigned push-to-talk key to its original functionality right-click the Always PTT icon in the task tray and select Exit. This will immediately exit Always PTT and return the assigned push-to-talk key to its original functionality.
 
 
 ## HOW TO SET DEFAULT DEVICE:
