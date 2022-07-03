@@ -11,7 +11,7 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 
 * Keeps microphone properly muted which is great for privacy when not using the mic.
 
-* An On-Screen-Display (OSD) to show when the mic is active (can be enabled from the settings).
+* An On-Screen-Display (OSD) to show when the mic is active (can be enabled from the settings and you can change the position and size of the OSD).
 
 * Beep when mic is activated and deactivated (can be enabled in settings).
 
