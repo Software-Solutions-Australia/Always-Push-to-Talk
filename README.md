@@ -36,7 +36,7 @@ Download from releases on Github:
 
 2. Always PTT will show as a white headset icon in your task tray, the icon will be green while the assigned push-to-talk key is being held down.
 
-[![APTT-2.png](https://i.postimg.cc/prdbzSr0/APTT-2.png)](https://postimg.cc/dkgxK48d)
+[![](https://i.postimg.cc/1tnYSZg1/APTT-4.png)](https://postimg.cc/Kkb57wr0)
 
 3. To exit Always PTT and return the assigned push-to-talk key to its original functionality right-click the Always PTT icon in the task tray and select Exit. This will immediately exit Always PTT and return the assigned push-to-talk key to its original functionality.
 
