@@ -32,7 +32,7 @@ Download from releases on Github:
 
 1. Always PTT will keep your microphone muted while it is running except for while you are holding the assigned push-to-talk key down (CapsLock by default, you can change the assigned key).
 
-[![](https://i.postimg.cc/dVhNMyLS/capslock.png)](https://postimg.cc/Xr0kdXKw)
+[![](https://i.postimg.cc/XvF2q6Kf/capslock.png)](https://postimg.cc/gwzyt5Tj)
 
 2. Always PTT will show as a white headset icon in your task tray, the icon will be green while the assigned push-to-talk key is being held down.
 
