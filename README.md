@@ -4,7 +4,7 @@ Always PTT will keep your default capture device (your mic) muted unless an assi
 
 Always PTT is designed for Windows 10 and has not been tested on any other versions of Windows.
 
-[![](https://i.postimg.cc/y8K0vT1h/APTT-2-2-7-1.png)](https://postimg.cc/ZCf9qpy0)
+[![](https://i.postimg.cc/4yFyjMSM/APTT-1.png)](https://postimg.cc/xNM9zsYy)
 
 
 ## FEATURE HIGHLIGHTS:
