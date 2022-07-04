@@ -65,9 +65,9 @@ If Always PTT doesn't work with a particular game or program (such as Discord), 
 
 If you still have problems with this program, try reading the instructions again and follow them carefully.
 
-## Check out the Always Push-to-Talk Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki
+### Check out the Always Push-to-Talk Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki
 
-## If you are still having problems, submit a bug report: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/issues
+### If you are still having problems, submit a bug report: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/issues
 
 ***
 
