@@ -10,11 +10,11 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 
 ## FEATURE HIGHLIGHTS:
 
-* Assign a push-to-talk key that works universally across all programs and games in Windows.
+* [Assign a push-to-talk key](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki/Settings-Overview#1-assign-a-push-to-talk-key) that works universally across all programs and games in Windows.
 
 * Keeps microphone properly muted which is great for privacy when not using the mic.
 
-* An On-Screen-Display (OSD) to show when the mic is active (can be enabled from the settings and you can change the position and size of the OSD).
+* [On-Screen-Display (OSD)](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki/Settings-Overview#3-on-screen-display-osd-settings) to show when the mic is active (can be enabled from the settings and you can change the position and size of the OSD).
 
 * Beep when mic is activated and deactivated (can be enabled in settings).
 
