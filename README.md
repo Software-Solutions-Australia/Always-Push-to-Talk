@@ -43,8 +43,6 @@ Download from releases on Github:
 
 3. To exit Always PTT and return the assigned push-to-talk key to its original functionality right-click the Always PTT icon in the task tray and select Exit. This will immediately exit Always PTT and return the assigned push-to-talk key to its original functionality.
 
-Check out the Always Push-to-Talk Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki
-
 ***
 
 ## HOW TO SET DEFAULT DEVICE:
@@ -66,6 +64,8 @@ If you have set a default device and Always PTT hasn't detected it even after re
 If Always PTT doesn't work with a particular game or program (such as Discord), run Always PTT as administrator.
 
 If you still have problems with this program, try reading the instructions again and follow them carefully.
+
+Check out the Always Push-to-Talk Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki
 
 If you are still having problems, submit a bug report: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/issues
 
