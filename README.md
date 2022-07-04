@@ -6,6 +6,7 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 
 [![](https://i.postimg.cc/4yFyjMSM/APTT-1.png)](https://postimg.cc/xNM9zsYy)
 
+***
 
 ## FEATURE HIGHLIGHTS:
 
@@ -21,12 +22,14 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 
 * Option to run at Windows startup (can be enabled in settings).
 
+***
 
 ## DOWNLOAD INSTRUCTIONS:
 
 Download from releases on Github: 
 [https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases)
 
+***
 
 ## USAGE INSTRUCTIONS:
 
@@ -40,6 +43,9 @@ Download from releases on Github:
 
 3. To exit Always PTT and return the assigned push-to-talk key to its original functionality right-click the Always PTT icon in the task tray and select Exit. This will immediately exit Always PTT and return the assigned push-to-talk key to its original functionality.
 
+Check out the Always Push-to-Talk Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki
+
+***
 
 ## HOW TO SET DEFAULT DEVICE:
 
@@ -51,6 +57,7 @@ Download from releases on Github:
 
 [![](https://i.postimg.cc/V6hQ9Rtm/APTT-6.png)](https://postimg.cc/7GSWwSXW)
 
+***
 
 ## TROUBLESHOOTING:
 
@@ -62,6 +69,7 @@ If you still have problems with this program, try reading the instructions again
 
 If you are still having problems, submit a bug report: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/issues
 
+***
 
 ## LICENSE AGREEMENT:
 
