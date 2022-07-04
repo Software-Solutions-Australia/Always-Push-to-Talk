@@ -1,8 +1,8 @@
 ### Always Push-to-Talk by Software Solutions Australia (Disguise_AU)
 
-Always PTT will keep your default capture device (your mic) muted unless an assigned push-to-talk key is being pressed.
+### Always PTT will keep your default capture device (your mic) muted unless an assigned push-to-talk key is being pressed.
 
-Always PTT is designed for Windows 10 and has not been tested on any other versions of Windows.
+### Always PTT is designed for Windows 10 and has not been tested on any other versions of Windows.
 
 [![](https://i.postimg.cc/4yFyjMSM/APTT-1.png)](https://postimg.cc/xNM9zsYy)
 
@@ -26,7 +26,7 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 
 ## DOWNLOAD INSTRUCTIONS:
 
-Download from releases on Github: 
+### Download from releases on Github: 
 [https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/releases)
 
 ***
@@ -65,9 +65,9 @@ If Always PTT doesn't work with a particular game or program (such as Discord), 
 
 If you still have problems with this program, try reading the instructions again and follow them carefully.
 
-Check out the Always Push-to-Talk Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki
+## Check out the Always Push-to-Talk Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki
 
-If you are still having problems, submit a bug report: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/issues
+## If you are still having problems, submit a bug report: https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/issues
 
 ***
 
