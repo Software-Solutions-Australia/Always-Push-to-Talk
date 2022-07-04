@@ -31,7 +31,7 @@ Download from releases on Github:
 
 ***
 
-## USAGE INSTRUCTIONS:
+## [USAGE INSTRUCTIONS:](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki)
 
 1. Always PTT will keep your microphone muted while it is running except for while you are holding the assigned push-to-talk key down (CapsLock by default, you can change the assigned key).
 
@@ -45,7 +45,7 @@ Download from releases on Github:
 
 ***
 
-## HOW TO SET DEFAULT DEVICE:
+## [HOW TO SET DEFAULT DEVICE:](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki/Setting-a-Default-Microphone)
 
 1. Left click the Always PTT headphone icon in the task tray. This will show the Windows Sound dialog with the "Recording" tab automatically selected.
 
