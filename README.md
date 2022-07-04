@@ -1,4 +1,4 @@
-### Always Push-to-Talk by Software Solutions Australia
+# Always Push-to-Talk by Software Solutions Australia
 
 ### Always PTT will keep your default capture device (your mic) muted unless an assigned push-to-talk key is being pressed.
 
