@@ -1,4 +1,4 @@
-### Always Push-to-Talk by Software Solutions Australia (Disguise_AU)
+### Always Push-to-Talk by Software Solutions Australia
 
 ### Always PTT will keep your default capture device (your mic) muted unless an assigned push-to-talk key is being pressed.
 
@@ -73,7 +73,7 @@ If you still have problems with this program, try reading the instructions again
 
 ## LICENSE AGREEMENT:
 
-Copyright 2022 Software Solutions Australia
+Copyright 2022 Software Solutions Australia (Rowan Truman)
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the author be held liable for any damages arising from the use of this software.
 
@@ -83,6 +83,3 @@ Permission is granted to anyone to use this software for any purpose, including 
    If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
 2. Altered versions must be plainly marked as such, and must not be misrepresented as being the original software.
 3. This notice may not be removed or altered from any distribution.
-
-
--Disguise_AU
