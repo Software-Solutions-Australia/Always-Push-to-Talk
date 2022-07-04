@@ -16,11 +16,11 @@ Always PTT is designed for Windows 10 and has not been tested on any other versi
 
 * [On-Screen-Display (OSD)](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki/Settings-Overview#3-on-screen-display-osd-settings) to show when the mic is active (can be enabled from the settings and you can change the position and size of the OSD).
 
-* Beep when mic is activated and deactivated (can be enabled in settings).
+* [Beep](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki/Settings-Overview#4-enable-beep-when-microphone-is-activated-and-deactivated) when mic is activated and deactivated (can be enabled in settings).
 
 * Less than 3MB in size and uses only a small amount of memory to operate.
 
-* Option to run at Windows startup (can be enabled in settings).
+* Option to [run at Windows startup](https://github.com/Software-Solutions-Australia/Always-Push-to-Talk/wiki/Settings-Overview#5-run-always-ptt-automatically-on-windows-startup) (can be enabled in settings).
 
 ***
 
