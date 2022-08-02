@@ -4,7 +4,7 @@
 
 ### Always PTT is designed for Windows 10 and has not been tested on any other versions of Windows.
 
-[![](https://i.postimg.cc/4yFyjMSM/APTT-1.png)](https://postimg.cc/xNM9zsYy)
+[![](https://i.postimg.cc/5tBwjcbN/APTT-2-2-8.png)](https://postimg.cc/HJLJPhrf)
 
 ***
 
