@@ -1,3 +1,10 @@
 v2.2.9; Updater & Bug fix
 1. Added updater that automatically checks for new versions of Always PTT.
 2. Fixed duplicate config file being created in certain conditions.
+
+v2.2.8; Minor UI update
+Added "View Always PTT Releases on GitHub" to the "Help" submenu.
+Added "View Always PTT Wiki on GitHub" to the "Help" submenu.
+Added "Submit Bug Report or Feature Request" to the "Help" submenu.
+Changed some code to prepare for future updates and features.
+Updated License Agreement to reflect what GitHub shows.
