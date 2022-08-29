@@ -1,5 +1,5 @@
 v2.2.9; Updater & Bug fix
-Added updater that checks for new versions of Always PTT.
+Added updater that automatically checks for new versions of Always PTT.
 Fixed duplicate config file being created in certain conditions.
 
 v2.2.8; Minor UI update
