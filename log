@@ -1,6 +1,7 @@
 v2.2.9; Updater & Bug fix
 Added updater that automatically checks for new versions of Always PTT.
 Fixed duplicate config file being created in certain conditions.
+Changed compression method making Always PTT even smaller in size.
 
 v2.2.8; Minor UI update
 Added "View Always PTT Releases on GitHub" to the "Help" submenu.
