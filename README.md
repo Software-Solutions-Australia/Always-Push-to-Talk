@@ -51,7 +51,7 @@
 
 [![](https://i.postimg.cc/6QRvxj91/APTT-5.png)](https://postimg.cc/VSf6jF0j)
 
-3. Find the microphone device you want to use, right click it and select "Set as Default Device". You can then close the Windows Sound dialog.
+2. Find the microphone device you want to use, right click it and select "Set as Default Device". You can then close the Windows Sound dialog.
 
 [![](https://i.postimg.cc/V6hQ9Rtm/APTT-6.png)](https://postimg.cc/7GSWwSXW)
 
