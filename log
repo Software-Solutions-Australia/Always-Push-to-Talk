@@ -1,3 +1,6 @@
+v2.2.9.1; Startup check fix
+Fixed check mark not showing next to the "Run on Windows Startup" option.
+
 v2.2.9; Updater & Bug fix
 Added updater that automatically checks for new versions of Always PTT.
 Fixed duplicate config file being created in certain conditions.
